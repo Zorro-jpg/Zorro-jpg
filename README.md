@@ -1,2 +1,3 @@
 Web App Project URL:
-http://moviehivee.eu-west-2.elasticbeanstalk.com/
+https://moviehivee.eu-west-2.elasticbeanstalk.com/
+(Uses a privately generated certificate so browser could issue a warning)
